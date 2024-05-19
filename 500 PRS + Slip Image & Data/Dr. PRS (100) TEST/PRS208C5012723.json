@@ -1,0 +1,13 @@
+{
+    "doctor": "Dr. Mohammad Abdullah Al Manjur",
+    "medication": [
+        {
+            "name": "CAP (Ph. Im.)",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "TOLAD (2-2-2)",
+            "quantity": "2+2+2"
+        }
+    ]
+}

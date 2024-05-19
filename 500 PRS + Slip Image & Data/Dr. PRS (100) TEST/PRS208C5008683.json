@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Md. Mamunur Rashid",
+    "medication": [
+        {
+            "name": "Tab. Evosil CV 625mg",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cap. Rober (Boron)",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Zinc B",
+            "quantity": "1+0+1"
+        }
+    ]
+}

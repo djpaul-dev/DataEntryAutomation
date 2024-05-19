@@ -1,0 +1,29 @@
+{
+    "doctor": "\u09a1\u09be\u0983 \u09a6\u09c7\u09ac\u09be\u09b6\u09c0\u09b7 \u09a6\u09be\u09b8",
+    "medication": [
+        {
+            "name": "Tab. Rablet-DSR",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Roxid-150",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Monas-10",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Tab. Fexo-120",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Tab. Pan-40",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Doxiva-100",
+            "quantity": "1+0+1"
+        }
+    ]
+}

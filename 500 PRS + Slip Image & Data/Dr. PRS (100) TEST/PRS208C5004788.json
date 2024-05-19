@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Md. Ali Ashraf (Juwel)",
+    "medication": [
+        {
+            "name": "Nexum 20MG",
+            "quantity": "1"
+        },
+        {
+            "name": "Razo 20MG",
+            "quantity": "1"
+        },
+        {
+            "name": "Fexo 120",
+            "quantity": "1"
+        },
+        {
+            "name": "Fexo 180",
+            "quantity": "1"
+        },
+        {
+            "name": "Omidon 10MG",
+            "quantity": "1"
+        }
+    ]
+}

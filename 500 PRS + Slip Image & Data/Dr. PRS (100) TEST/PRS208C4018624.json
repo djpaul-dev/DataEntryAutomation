@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. S. M. Khairun Nabi Khan",
+    "medication": [
+        {
+            "name": "Napa",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Kalerol-D",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Xinc",
+            "quantity": "1+0+1"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "doctor": "Dr. Salah Uddin Ahmed",
+    "medication": [
+        {
+            "name": "Ximacef",
+            "quantity": "1"
+        },
+        {
+            "name": "T. Melpred",
+            "quantity": "1"
+        },
+        {
+            "name": "T. Fenadin",
+            "quantity": "1"
+        },
+        {
+            "name": "Dazit",
+            "quantity": "1"
+        },
+        {
+            "name": "E-Zet cream",
+            "quantity": "1"
+        },
+        {
+            "name": "Zylib",
+            "quantity": "1"
+        },
+        {
+            "name": "Revoran",
+            "quantity": "1"
+        },
+        {
+            "name": "Silonase cream",
+            "quantity": "1"
+        }
+    ]
+}

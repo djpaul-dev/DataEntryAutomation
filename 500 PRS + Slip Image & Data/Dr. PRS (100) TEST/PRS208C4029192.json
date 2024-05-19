@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Sami Ahmad",
+    "medication": [
+        {
+            "name": "Best cef 500mg",
+            "quantity": "1+1"
+        },
+        {
+            "name": "Maxflo Mups 40mg",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Renorma XR",
+            "quantity": "20mg"
+        },
+        {
+            "name": "Goodap",
+            "quantity": "2+1+2"
+        }
+    ]
+}

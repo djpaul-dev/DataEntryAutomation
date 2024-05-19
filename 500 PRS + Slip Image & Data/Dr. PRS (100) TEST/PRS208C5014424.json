@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Muhammad Hasnat",
+    "medication": [
+        {
+            "name": "Tab. Ranitid",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Neotack",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Napa",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Omidon",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Tab. Ranitid",
+            "quantity": "20 mg"
+        }
+    ]
+}

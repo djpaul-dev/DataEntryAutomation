@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Nasima Akhter",
+    "medication": [
+        {
+            "name": "Nasomens",
+            "quantity": "5/7"
+        },
+        {
+            "name": "Thyrox",
+            "quantity": "5/7"
+        },
+        {
+            "name": "Napnox",
+            "quantity": "5/7"
+        },
+        {
+            "name": "Cosec",
+            "quantity": "2/7"
+        },
+        {
+            "name": "Algin",
+            "quantity": "5/7"
+        },
+        {
+            "name": "Frenxit",
+            "quantity": "5/7"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "doctor": "Professor Dr. M. A. Latif",
+    "medication": [
+        {
+            "name": "Rablet",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Xtravit",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Cotrimoxazole",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cefuroxime",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cough Syrup",
+            "quantity": "2 tsp 3 times"
+        }
+    ]
+}

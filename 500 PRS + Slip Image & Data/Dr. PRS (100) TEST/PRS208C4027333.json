@@ -1,0 +1,21 @@
+{
+    "institution": "Medi Fair Diagnostic Center",
+    "medication": [
+        {
+            "name": "NAPA",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "RELENTUS",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "MAXPRO",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "TPO",
+            "quantity": "1+0+1"
+        }
+    ]
+}

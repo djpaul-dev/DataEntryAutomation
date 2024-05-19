@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Hasan Shaharia Murad",
+    "medication": [
+        {
+            "name": "Napa (P. drop)",
+            "quantity": "2.5 ml"
+        },
+        {
+            "name": "Syr. Neotame",
+            "quantity": "2.5 ml"
+        },
+        {
+            "name": "Syr. Ketomar",
+            "quantity": "2.5 ml"
+        },
+        {
+            "name": "Lydex (P. drop)",
+            "quantity": "2.5 ml"
+        }
+    ]
+}

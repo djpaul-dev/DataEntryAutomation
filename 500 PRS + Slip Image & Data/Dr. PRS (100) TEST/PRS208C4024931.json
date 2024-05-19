@@ -1,0 +1,33 @@
+{
+    "doctor": "Dr. Md. Monorul Alam",
+    "medication": [
+        {
+            "name": "Syrup Junofine",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab Riboflavin",
+            "quantity": "30"
+        },
+        {
+            "name": "Tab Pyridoxine",
+            "quantity": "30"
+        },
+        {
+            "name": "Tab Folic Acid",
+            "quantity": "30"
+        },
+        {
+            "name": "Tab Zinc",
+            "quantity": "30"
+        },
+        {
+            "name": "Tab Iron",
+            "quantity": "30"
+        },
+        {
+            "name": "Tab SQPT",
+            "quantity": "30"
+        }
+    ]
+}

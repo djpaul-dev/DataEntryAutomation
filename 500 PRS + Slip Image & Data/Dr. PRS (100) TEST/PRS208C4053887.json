@@ -1,0 +1,25 @@
+{
+    "doctor": "Md. Eunus Ali",
+    "medication": [
+        {
+            "name": "Tab. Todel",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Tab. Pregat MUPS",
+            "quantity": "75 mg"
+        },
+        {
+            "name": "Tab. Epelon",
+            "quantity": "0.5 mg"
+        },
+        {
+            "name": "Tab. Monin",
+            "quantity": "4 mg"
+        },
+        {
+            "name": "Aldactone",
+            "quantity": "50 mg"
+        }
+    ]
+}

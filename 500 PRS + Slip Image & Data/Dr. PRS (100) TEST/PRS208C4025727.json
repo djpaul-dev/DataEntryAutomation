@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Sardar Mohammad Tanvir",
+    "medication": [
+        {
+            "name": "Tab. Clodrel",
+            "quantity": "75 mg"
+        },
+        {
+            "name": "Tab. Bilin",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Tab. Solos",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Tab. Neksium",
+            "quantity": "40 mg"
+        },
+        {
+            "name": "Tab. Pantronic",
+            "quantity": "40 mg"
+        }
+    ]
+}

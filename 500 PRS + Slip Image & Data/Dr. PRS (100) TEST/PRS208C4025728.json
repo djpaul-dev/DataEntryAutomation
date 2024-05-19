@@ -1,0 +1,37 @@
+{
+    "doctor": "Dr. Dipankar Kumar Modak",
+    "medication": [
+        {
+            "name": "Tab Amclog Plus",
+            "quantity": "0-0-1"
+        },
+        {
+            "name": "Tab Bisonor",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Cap Omeprazole",
+            "quantity": "0-0-1"
+        },
+        {
+            "name": "Tab Rosuvastatin",
+            "quantity": "0-0-1"
+        },
+        {
+            "name": "Tab Ecosprin",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Tab Clopidogrel",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Tab Doxofylline",
+            "quantity": "0-0-1"
+        },
+        {
+            "name": "Tab Doxofylline",
+            "quantity": "0-0-1"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "doctor": "Dr. Miraz Mahmud (Dipu)",
+    "medication": [
+        {
+            "name": "Augmentin",
+            "quantity": "1+1"
+        },
+        {
+            "name": "Seclo 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Ace 500",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Aerius 10",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tradalon 50",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Myolax 50",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Flutivate nasal spray",
+            "quantity": "1+1"
+        }
+    ]
+}

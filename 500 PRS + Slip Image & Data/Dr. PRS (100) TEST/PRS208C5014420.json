@@ -1,0 +1,41 @@
+{
+    "institution": "Prof. M A Azhar",
+    "medication": [
+        {
+            "name": "The Comprid XR",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "The Linaglip",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "Lopid",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "Lopid",
+            "quantity": "1 (7pm)"
+        },
+        {
+            "name": "The Losar",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "The Losar",
+            "quantity": "1 (7pm)"
+        },
+        {
+            "name": "The Bilo",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "Cap D Rise",
+            "quantity": "1 (7am)"
+        },
+        {
+            "name": "The Napad",
+            "quantity": "1 (7pm)"
+        }
+    ]
+}

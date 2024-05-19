@@ -1,0 +1,41 @@
+{
+    "doctor": "Dr. Akhter Uddin Ahmed",
+    "medication": [
+        {
+            "name": "Telmivon AM",
+            "quantity": "10"
+        },
+        {
+            "name": "Fidely",
+            "quantity": "20"
+        },
+        {
+            "name": "Histafree",
+            "quantity": "10"
+        },
+        {
+            "name": "Xelobid",
+            "quantity": "10"
+        },
+        {
+            "name": "Redexon",
+            "quantity": "25"
+        },
+        {
+            "name": "Alphagan Plus",
+            "quantity": "10"
+        },
+        {
+            "name": "Vomiz",
+            "quantity": "20"
+        },
+        {
+            "name": "Montel",
+            "quantity": "10"
+        },
+        {
+            "name": "Bexloy",
+            "quantity": "20"
+        }
+    ]
+}

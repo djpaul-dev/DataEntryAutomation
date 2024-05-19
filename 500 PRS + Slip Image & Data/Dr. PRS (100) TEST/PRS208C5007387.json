@@ -1,0 +1,13 @@
+{
+    "institution": "Ispahani Islamia Eye Institute and Hospital, Bangladesh",
+    "medication": [
+        {
+            "name": "TRIMED 200",
+            "quantity": "30"
+        },
+        {
+            "name": "BILIN 20 mg",
+            "quantity": "10"
+        }
+    ]
+}

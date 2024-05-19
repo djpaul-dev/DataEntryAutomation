@@ -1,0 +1,29 @@
+{
+    "institution": "Victoria Healthcare Ltd",
+    "medication": [
+        {
+            "name": "TAB LAMTRIN",
+            "quantity": "25mg"
+        },
+        {
+            "name": "TAB VALEX CR",
+            "quantity": "500mg"
+        },
+        {
+            "name": "TAB VALEX CR",
+            "quantity": "300mg"
+        },
+        {
+            "name": "TAB XEPHIL",
+            "quantity": "500mg"
+        },
+        {
+            "name": "TAB XEPHIL",
+            "quantity": "200mg"
+        },
+        {
+            "name": "TAB MEMO",
+            "quantity": "10mg"
+        }
+    ]
+}

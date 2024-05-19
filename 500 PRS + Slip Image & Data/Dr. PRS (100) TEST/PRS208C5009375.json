@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Palash Mojumder",
+    "medication": [
+        {
+            "name": "Tab. Topnil 200",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Fexo 120",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Panton 20",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Telfast",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Histolin",
+            "quantity": "1+0+1"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Chowdhury Md. Anwar Hossain",
+    "medication": [
+        {
+            "name": "Xim-Cap 200 DS",
+            "quantity": "1"
+        },
+        {
+            "name": "TSF",
+            "quantity": "1"
+        },
+        {
+            "name": "Cortan",
+            "quantity": "1"
+        },
+        {
+            "name": "Ranitidine",
+            "quantity": "1"
+        },
+        {
+            "name": "Renorma",
+            "quantity": "1"
+        },
+        {
+            "name": "Napa",
+            "quantity": "1"
+        }
+    ]
+}

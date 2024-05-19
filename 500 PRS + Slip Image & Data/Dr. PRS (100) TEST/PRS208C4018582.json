@@ -1,0 +1,33 @@
+{
+    "doctor": "Prof. Dr. Moududul Haque",
+    "medication": [
+        {
+            "name": "Cap. Uromax 0.4",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Cavinton 5 mg",
+            "quantity": "2"
+        },
+        {
+            "name": "Tab. Trypfin 25 mg",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Neurolop 500 mg",
+            "quantity": "2"
+        },
+        {
+            "name": "Tab. Modcalm 50 mg",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Nervalin CR 25",
+            "quantity": "1"
+        },
+        {
+            "name": "Cap. Delight 400 mg",
+            "quantity": "1"
+        }
+    ]
+}

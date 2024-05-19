@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Md. Golam Mostafa",
+    "medication": [
+        {
+            "name": "Tab. Kofol",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Tab. Xoflu",
+            "quantity": "2+0+2"
+        },
+        {
+            "name": "Syr. Sinadex",
+            "quantity": "5 ml 2+2+2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "institution": "\u09aa\u09b2\u09cd\u09b2\u09c0 \u09ae\u09c7\u09a1\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+    "medication": [
+        {
+            "name": "Tab",
+            "quantity": "1-0-1"
+        },
+        {
+            "name": "Cap",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Syr",
+            "quantity": "2-0-2"
+        },
+        {
+            "name": "Oint",
+            "quantity": "0-0-1"
+        }
+    ]
+}

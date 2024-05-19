@@ -1,0 +1,34 @@
+{
+    "institution": "Famous Hospital & Diagnostic Center Ltd.",
+    "doctor": "Dr. M. A. Mannan",
+    "medication": [
+        {
+            "name": "Clavusef 500",
+            "quantity": "28"
+        },
+        {
+            "name": "Econorm",
+            "quantity": "10"
+        },
+        {
+            "name": "Fexofen 180",
+            "quantity": "10"
+        },
+        {
+            "name": "Atorvastatin",
+            "quantity": "10"
+        },
+        {
+            "name": "Napa rapid",
+            "quantity": "10"
+        },
+        {
+            "name": "Neurobion",
+            "quantity": "20"
+        },
+        {
+            "name": "Rable 20",
+            "quantity": "20"
+        }
+    ]
+}

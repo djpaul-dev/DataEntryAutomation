@@ -1,0 +1,17 @@
+{
+    "institution": "IBN SINA MEDICAL COLLEGE HOSPITAL",
+    "medication": [
+        {
+            "name": "ALCET 5 MG",
+            "quantity": "10"
+        },
+        {
+            "name": "LOTEKOM 0.5% EYE DROPS",
+            "quantity": "1"
+        },
+        {
+            "name": "LOTEKOM 0.5% EYE OINTMENT",
+            "quantity": "1"
+        }
+    ]
+}

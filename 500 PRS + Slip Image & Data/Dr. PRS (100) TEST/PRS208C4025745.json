@@ -1,0 +1,41 @@
+{
+    "institution": "Victoria Healthcare Ltd",
+    "medication": [
+        {
+            "name": "TAB EDELOSS PLUS",
+            "quantity": "40mg+50mg"
+        },
+        {
+            "name": "TAB CARVISTA",
+            "quantity": "6.25mg"
+        },
+        {
+            "name": "TAB ENRESTO",
+            "quantity": "50mg"
+        },
+        {
+            "name": "TAB PLAGRIN",
+            "quantity": "75mg"
+        },
+        {
+            "name": "TAB GLIMET",
+            "quantity": "2mg+500mg"
+        },
+        {
+            "name": "TAB AMLOPIN",
+            "quantity": "5mg"
+        },
+        {
+            "name": "TAB BISOL",
+            "quantity": "5mg"
+        },
+        {
+            "name": "TAB THYRONOR",
+            "quantity": "50mg"
+        },
+        {
+            "name": "TAB MONITAL",
+            "quantity": "10mg"
+        }
+    ]
+}

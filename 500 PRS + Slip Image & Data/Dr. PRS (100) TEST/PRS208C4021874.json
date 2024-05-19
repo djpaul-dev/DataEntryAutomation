@@ -1,0 +1,17 @@
+{
+    "institution": "IBN SINA Medical College Hospital",
+    "medication": [
+        {
+            "name": "Tab. NAPA",
+            "quantity": "500 mg"
+        },
+        {
+            "name": "Tab. Ranitidine",
+            "quantity": "150 mg"
+        },
+        {
+            "name": "Tab. Omeprazole",
+            "quantity": "20 mg"
+        }
+    ]
+}

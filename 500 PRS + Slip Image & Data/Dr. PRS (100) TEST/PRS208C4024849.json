@@ -1,0 +1,9 @@
+{
+    "doctor": "Dr. Dilip Kumar Ghosh",
+    "medication": [
+        {
+            "name": "Gaviscon Suspension",
+            "quantity": "1 bottle"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Ripon Kumar Das",
+    "medication": [
+        {
+            "name": "Tab. Tetrasilin",
+            "quantity": "1/0+0+1"
+        },
+        {
+            "name": "Cap. Nappa",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Cap. Omep",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Alergin",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Fexo",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Ranitidine",
+            "quantity": "1+0+1"
+        }
+    ]
+}

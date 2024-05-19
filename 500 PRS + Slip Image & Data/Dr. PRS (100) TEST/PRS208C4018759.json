@@ -1,0 +1,17 @@
+{
+    "doctor": "A.B.M. Abdullah",
+    "medication": [
+        {
+            "name": "Cap. Projef",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Tab. Topen",
+            "quantity": "1 mg"
+        },
+        {
+            "name": "Tab. Paracod",
+            "quantity": "1 mg"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "doctor": "Prof. M. Sajjad Hussain",
+    "medication": [
+        {
+            "name": "Nervalin CR",
+            "quantity": "75/500"
+        },
+        {
+            "name": "Dinovo",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Neuroxen",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Reli Balm",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Kalcoral-D",
+            "quantity": "1+0+1"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Rafiqul Islam",
+    "medication": [
+        {
+            "name": "Telmivas 40",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Rosuva 10",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Monas 10",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Remmo 20",
+            "quantity": "1+0+1"
+        }
+    ]
+}

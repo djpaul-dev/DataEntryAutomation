@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Faruque Ahmad",
+    "medication": [
+        {
+            "name": "Deflacort",
+            "quantity": "1 ml"
+        },
+        {
+            "name": "Remuc",
+            "quantity": "3 ml"
+        },
+        {
+            "name": "Rozita",
+            "quantity": "20 ml"
+        }
+    ]
+}

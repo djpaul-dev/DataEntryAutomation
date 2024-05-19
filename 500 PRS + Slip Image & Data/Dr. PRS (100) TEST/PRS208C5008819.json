@@ -1,0 +1,17 @@
+{
+    "institution": "Matador",
+    "medication": [
+        {
+            "name": "Amlodipine",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Paracetamol",
+            "quantity": "500 mg"
+        },
+        {
+            "name": "Omeprazole",
+            "quantity": "20 mg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Shahana Akter",
+    "medication": [
+        {
+            "name": "Tab. Taronna",
+            "quantity": "20"
+        },
+        {
+            "name": "Cap. ECAP",
+            "quantity": "20"
+        },
+        {
+            "name": "Tab. Nuro B",
+            "quantity": "20"
+        },
+        {
+            "name": "Clafenac gel",
+            "quantity": "1"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "doctor": "Dr. Md. Alauddin Khan",
+    "medication": [
+        {
+            "name": "Palmo salpate pulg",
+            "quantity": "1"
+        },
+        {
+            "name": "Bashundhara",
+            "quantity": "1"
+        },
+        {
+            "name": "E mail",
+            "quantity": "1"
+        },
+        {
+            "name": "Hair fall",
+            "quantity": "1"
+        },
+        {
+            "name": "Esolin",
+            "quantity": "1"
+        },
+        {
+            "name": "Oint. Xovate",
+            "quantity": "1"
+        },
+        {
+            "name": "Eumosone M",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Coll D",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Floris 5mg",
+            "quantity": "1"
+        }
+    ]
+}

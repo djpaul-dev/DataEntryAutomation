@@ -1,0 +1,25 @@
+{
+    "institution": "Unknown",
+    "medication": [
+        {
+            "name": "Axime",
+            "quantity": "1"
+        },
+        {
+            "name": "Syp 2",
+            "quantity": "1"
+        },
+        {
+            "name": "Syp 3",
+            "quantity": "1"
+        },
+        {
+            "name": "Syp 4",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab Montelukast",
+            "quantity": "1"
+        }
+    ]
+}

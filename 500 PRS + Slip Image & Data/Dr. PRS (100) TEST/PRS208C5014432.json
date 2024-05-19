@@ -1,0 +1,33 @@
+{
+    "institution": "Shree Krishna Hospital",
+    "medication": [
+        {
+            "name": "Tab. Furoclav 500mg",
+            "quantity": "1-0-1 x 9 days"
+        },
+        {
+            "name": "Zetloft nasal spray",
+            "quantity": "1-1-1"
+        },
+        {
+            "name": "Tab. Algin 50mg",
+            "quantity": "1-0-1 x 3 days"
+        },
+        {
+            "name": "Tab. Maxpro MUPS 20mg",
+            "quantity": "1-0-0 x 15 days"
+        },
+        {
+            "name": "Syp. Algredi Dx",
+            "quantity": "2-2-2 x 5 days"
+        },
+        {
+            "name": "Tab. Bilah 20mg",
+            "quantity": "0-0-1 x 20 days"
+        },
+        {
+            "name": "Tab. Algedal Dx",
+            "quantity": "2-2-2 x 3 days"
+        }
+    ]
+}

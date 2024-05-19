@@ -1,0 +1,21 @@
+{
+    "doctor": "Prof. Dr. Aftab U Ahmed",
+    "medication": [
+        {
+            "name": "Tab. Cipralex",
+            "quantity": "10mg"
+        },
+        {
+            "name": "Tab. Relax",
+            "quantity": "0.5mg"
+        },
+        {
+            "name": "Tab. Tryptin",
+            "quantity": "10mg"
+        },
+        {
+            "name": "Unichem",
+            "quantity": "10mg"
+        }
+    ]
+}

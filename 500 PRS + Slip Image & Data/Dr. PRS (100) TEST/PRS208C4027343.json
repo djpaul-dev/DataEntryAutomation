@@ -1,0 +1,33 @@
+{
+    "doctor": "Dr. Mohammad Nadeemul Islam",
+    "medication": [
+        {
+            "name": "Decap",
+            "quantity": "20"
+        },
+        {
+            "name": "Omeprazole",
+            "quantity": "20"
+        },
+        {
+            "name": "Levofloxacin",
+            "quantity": "500 mg"
+        },
+        {
+            "name": "Ethambutol",
+            "quantity": "800 mg"
+        },
+        {
+            "name": "Pyrazinamide",
+            "quantity": "1500 mg"
+        },
+        {
+            "name": "Isoniazid",
+            "quantity": "300 mg"
+        },
+        {
+            "name": "Rifampicin",
+            "quantity": "450 mg"
+        }
+    ]
+}

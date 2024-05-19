@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Iffat Sharmin (Dipti)",
+    "medication": [
+        {
+            "name": "Tab Virux",
+            "quantity": "2+2+2 for 7 days"
+        },
+        {
+            "name": "Virux H for 7 days",
+            "quantity": "2+2+2"
+        },
+        {
+            "name": "Cap PPI",
+            "quantity": "1+0+1 for 7 days"
+        },
+        {
+            "name": "Tab Paracetamol",
+            "quantity": "1+1+1 for 7 days"
+        }
+    ]
+}

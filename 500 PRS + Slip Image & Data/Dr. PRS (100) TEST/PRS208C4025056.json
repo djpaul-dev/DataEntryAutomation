@@ -1,0 +1,13 @@
+{
+    "doctor": "Prof. Dr. Meherunnesa",
+    "medication": [
+        {
+            "name": "Tab. Napa Rapid",
+            "quantity": "3"
+        },
+        {
+            "name": "Tab. Vegon",
+            "quantity": "1"
+        }
+    ]
+}

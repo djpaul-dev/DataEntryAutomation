@@ -1,0 +1,13 @@
+{
+    "doctor": "Dr. K.A. Faisal",
+    "medication": [
+        {
+            "name": "Rifadin",
+            "quantity": "2 1/2 x 2"
+        },
+        {
+            "name": "Pyrazinamide",
+            "quantity": "2 x 2"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "institution": "\u09a1\u09be. \u09ae\u09be\u09b9\u09ac\u09c1\u09ac \u09ae\u09b2\u09cd\u09b2\u09bf\u0995 (\u099a\u09c7\u09ae\u09cd\u09ac\u09be\u09b0)",
+    "medication": [
+        {
+            "name": "Tab. Bisol",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Nebivolol",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Amlodipine",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Myospaz",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Tab. Reste",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Enoxaparin",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Pantoprazole",
+            "quantity": "1+0+0"
+        }
+    ]
+}

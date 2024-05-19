@@ -1,0 +1,25 @@
+{
+    "institution": "Dr. Ajoy Kumar Sardar",
+    "medication": [
+        {
+            "name": "DHF HTN",
+            "quantity": "1"
+        },
+        {
+            "name": "Neck Pain",
+            "quantity": "1"
+        },
+        {
+            "name": "Pain and Tingling Sensation of UL and Numbness",
+            "quantity": "1"
+        },
+        {
+            "name": "BP 160/90 mmHg",
+            "quantity": "1"
+        },
+        {
+            "name": "Pulse 72 b/m",
+            "quantity": "1"
+        }
+    ]
+}

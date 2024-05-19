@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Mustafa Mahmud Tito",
+    "medication": [
+        {
+            "name": "Tab. Flexi",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Rofe",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. PPI",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. B. Complex",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Ca",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Syr. Sider",
+            "quantity": "5 ml 1+0+1"
+        }
+    ]
+}

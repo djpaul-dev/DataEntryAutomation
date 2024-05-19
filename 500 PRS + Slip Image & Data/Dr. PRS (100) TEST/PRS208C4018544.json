@@ -1,0 +1,17 @@
+{
+    "institution": "PROFESSOR DR. S. M. KABIR HATIM (MBBS, FCPS, FRCP, FACP, FACC, FESC)",
+    "medication": [
+        {
+            "name": "Tab. Ecosprin 75",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Clopid 75",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Atorva 20",
+            "quantity": "0+0+1"
+        }
+    ]
+}

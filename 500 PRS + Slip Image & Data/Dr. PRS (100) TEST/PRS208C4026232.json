@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Bijoy Krishna Das",
+    "medication": [
+        {
+            "name": "Salfica",
+            "quantity": "1"
+        },
+        {
+            "name": "Razo",
+            "quantity": "1"
+        },
+        {
+            "name": "Montek",
+            "quantity": "1"
+        },
+        {
+            "name": "Montek LC",
+            "quantity": "1"
+        }
+    ]
+}

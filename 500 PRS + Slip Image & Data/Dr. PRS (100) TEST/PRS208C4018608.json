@@ -1,0 +1,17 @@
+{
+    "doctor": "Prof. Dr. Begum Hosne Ara",
+    "medication": [
+        {
+            "name": "Folison",
+            "quantity": "0.5g, 2+0+2"
+        },
+        {
+            "name": "Kakecal DX",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Pentorin X",
+            "quantity": "20g, 0+1+0"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Mohammed Mahbubul Islam",
+    "medication": [
+        {
+            "name": "Tab Tamra (500 mg)",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab RZ-10 (500 mg)",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Tab PZQ (200 mg)",
+            "quantity": "0+0+1"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "doctor": "Professor Md. Mahbubul Alam",
+    "medication": [
+        {
+            "name": "Tab. Remosar (T 100)",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Doxorom (DT 100)",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Bistal",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Astmasol Plus HFA Inhaler",
+            "quantity": "2 puffs"
+        },
+        {
+            "name": "Saliba gargle",
+            "quantity": "1+1+1"
+        }
+    ]
+}

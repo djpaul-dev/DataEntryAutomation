@@ -1,0 +1,25 @@
+{
+    "institution": "Popular Diagnostic Centre Ltd.",
+    "medication": [
+        {
+            "name": "Salburen-I HFA",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Doxiva 400",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Fexofenadine HCL (Alatrol)",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Montiva 10",
+            "quantity": "1"
+        },
+        {
+            "name": "Tab. Doxiva 0.5",
+            "quantity": "1"
+        }
+    ]
+}

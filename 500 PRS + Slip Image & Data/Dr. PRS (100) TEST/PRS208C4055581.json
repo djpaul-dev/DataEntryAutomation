@@ -1,0 +1,29 @@
+{
+    "institution": "Shaheed Suhrawardy Medical College Hospital",
+    "medication": [
+        {
+            "name": "Mydjin",
+            "quantity": "1"
+        },
+        {
+            "name": "Tynorh",
+            "quantity": "1"
+        },
+        {
+            "name": "Ludom",
+            "quantity": "2"
+        },
+        {
+            "name": "Maxpro Mups",
+            "quantity": "1"
+        },
+        {
+            "name": "Napa",
+            "quantity": "2"
+        },
+        {
+            "name": "Aceclof",
+            "quantity": "50"
+        }
+    ]
+}

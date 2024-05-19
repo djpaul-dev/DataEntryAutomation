@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Nasrin Kabir",
+    "medication": [
+        {
+            "name": "Facid H Cream",
+            "quantity": "Apply 2 times a day for 20 days"
+        },
+        {
+            "name": "Tab. Rojith (500mg)",
+            "quantity": "1+0+0 for 7 days"
+        },
+        {
+            "name": "Tab. Xinc B",
+            "quantity": "0+1+0 for 7 days"
+        },
+        {
+            "name": "Tab. Fexo (60mg)",
+            "quantity": "0+0+1 for 30 days"
+        }
+    ]
+}

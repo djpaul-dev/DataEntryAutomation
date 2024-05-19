@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Purendu Biswas",
+    "medication": [
+        {
+            "name": "Indomet SR",
+            "quantity": "10"
+        },
+        {
+            "name": "Refzil",
+            "quantity": "10"
+        },
+        {
+            "name": "Vomp",
+            "quantity": "20"
+        },
+        {
+            "name": "Raptad D",
+            "quantity": "20"
+        },
+        {
+            "name": "Disperin",
+            "quantity": "20"
+        }
+    ]
+}

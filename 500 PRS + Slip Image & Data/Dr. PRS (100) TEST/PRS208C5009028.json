@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Jibon Kanti Dey",
+    "medication": [
+        {
+            "name": "Tab Vertin",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab Maxo",
+            "quantity": "2+1+0"
+        },
+        {
+            "name": "Tab Alerton",
+            "quantity": "1+0+1"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "doctor": "Prof. Dr. Md. Abdul Halim",
+    "medication": [
+        {
+            "name": "Alfavit",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Zinc",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "ORS",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Adryl",
+            "quantity": "1+1+1"
+        }
+    ]
+}

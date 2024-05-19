@@ -1,0 +1,33 @@
+{
+    "doctor": "Professor Dr. Syed Rezaul Huq",
+    "medication": [
+        {
+            "name": "Ostium 10",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "The Barget 200",
+            "quantity": "2+0+2"
+        },
+        {
+            "name": "Avantra",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tide Pred",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "The Prednisolone",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "The Amorex 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "The Atarax 200",
+            "quantity": "0+0+1"
+        }
+    ]
+}

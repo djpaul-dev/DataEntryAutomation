@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Mani Sanker",
+    "medication": [
+        {
+            "name": "T. X-P",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "T. Omeprazole",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "T. Lignocainhydrochloride",
+            "quantity": "1+0+1"
+        }
+    ]
+}

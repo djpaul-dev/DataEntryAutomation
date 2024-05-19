@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Abu Nasr Md. Jami",
+    "medication": [
+        {
+            "name": "Tab. Nexum 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cap. Bion 3",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Syp. Gaviscon",
+            "quantity": "2 tsf 1+1+1"
+        },
+        {
+            "name": "Cap. Omidon 10",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Tab. Fenadin 120",
+            "quantity": "1+0+0"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "doctor": "Prof. Dr. Md Kamruzzaman",
+    "medication": [
+        {
+            "name": "Oryza Mouthwash",
+            "quantity": "1"
+        }
+    ]
+}

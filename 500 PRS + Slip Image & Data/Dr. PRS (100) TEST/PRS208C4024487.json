@@ -1,0 +1,21 @@
+{
+    "institution": "Famous Hospital & Diagnostic Center Ltd.",
+    "medication": [
+        {
+            "name": "Cefaclav",
+            "quantity": "1 + 1 + 1"
+        },
+        {
+            "name": "Flamex",
+            "quantity": "1 + 0 + 1"
+        },
+        {
+            "name": "Afrin Nasal Drop",
+            "quantity": "2 drops"
+        },
+        {
+            "name": "Emistal FT",
+            "quantity": "1 + 1 + 1"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "doctor": "Prof. Dr. Seraj Uddin Ahammed",
+    "medication": [
+        {
+            "name": "Cap. PPI",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. KCL",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. KCL",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. KCL",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Syrup",
+            "quantity": "1+0+1"
+        }
+    ]
+}

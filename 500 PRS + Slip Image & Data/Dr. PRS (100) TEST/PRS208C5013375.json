@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Humayun Ahmed Nur",
+    "medication": [
+        {
+            "name": "Furocin",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Frenxit",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Clonapril",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Panfix",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Vitneurin",
+            "quantity": "1+0+0"
+        }
+    ]
+}

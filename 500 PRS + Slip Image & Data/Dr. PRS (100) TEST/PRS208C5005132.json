@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Md. Liaquat Ali Mollah",
+    "medication": [
+        {
+            "name": "Syp/Fab/Drop",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Syp/Fab/Drop",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Syp/Fab/Drop",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Syp/Fab/Drop",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Cap. Pralesium",
+            "quantity": "1+0+1"
+        }
+    ]
+}

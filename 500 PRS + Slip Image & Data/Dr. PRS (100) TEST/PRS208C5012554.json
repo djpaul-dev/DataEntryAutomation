@@ -1,0 +1,21 @@
+{
+    "institution": "\u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a8\u09cd\u09a4 \u099a\u0995\u09cd\u09b7\u09c1 \u09b8\u09c7\u09ac\u09be",
+    "medication": [
+        {
+            "name": "Solt-DS",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "G. Solt-DS",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "C. Solt-DS",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "D. Solt-DS",
+            "quantity": "0+0+1"
+        }
+    ]
+}

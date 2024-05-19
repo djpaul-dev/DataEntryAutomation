@@ -1,0 +1,37 @@
+{
+    "doctor": "Dr. D.M. Sajjad Hossain",
+    "medication": [
+        {
+            "name": "Tab Neso",
+            "quantity": "20mg+500mg"
+        },
+        {
+            "name": "Syrap Gavisus",
+            "quantity": "100ml"
+        },
+        {
+            "name": "Tab Cloron",
+            "quantity": "0.5mg"
+        },
+        {
+            "name": "Tab Nexum",
+            "quantity": "20mg"
+        },
+        {
+            "name": "Tab Clonazepam",
+            "quantity": "0.5mg"
+        },
+        {
+            "name": "Tab Dostral",
+            "quantity": "50mg"
+        },
+        {
+            "name": "Tab Betaloc",
+            "quantity": "50mg"
+        },
+        {
+            "name": "Tab Serol",
+            "quantity": "50mg"
+        }
+    ]
+}

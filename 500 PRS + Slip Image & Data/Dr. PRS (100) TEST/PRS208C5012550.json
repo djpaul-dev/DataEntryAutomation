@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Md. Kamal Hossen",
+    "medication": [
+        {
+            "name": "Vintellix",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Rexon",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Nexito",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Corex DX",
+            "quantity": "5 ml"
+        }
+    ]
+}

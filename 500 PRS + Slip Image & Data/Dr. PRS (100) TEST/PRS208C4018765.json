@@ -1,0 +1,17 @@
+{
+    "doctor": "Prof. (Dr.) Syed Khairul Amin",
+    "medication": [
+        {
+            "name": "Doxiva",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Amlodipine",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "S-adenosyl",
+            "quantity": "200 mg"
+        }
+    ]
+}

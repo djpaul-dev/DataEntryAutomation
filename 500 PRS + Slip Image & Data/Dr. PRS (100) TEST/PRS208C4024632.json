@@ -1,0 +1,21 @@
+{
+    "institution": "Famous Hospital & Diagnostic Center Ltd.",
+    "medication": [
+        {
+            "name": "Tab. Vartolin",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cap. Seclo",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Monas-10",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Fenadin",
+            "quantity": "1+0+1"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "doctor": "Dr. Swadesh Barman",
+    "medication": [
+        {
+            "name": "Amlodac",
+            "quantity": "5 mg 1+0+1"
+        },
+        {
+            "name": "Sazo",
+            "quantity": "2+0+2"
+        },
+        {
+            "name": "Sazo & Maxlo",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Sazo",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Udiliv",
+            "quantity": "300 mg 1+0+1"
+        },
+        {
+            "name": "Fungilin",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cap",
+            "quantity": "400 mg 1+0+1"
+        }
+    ]
+}

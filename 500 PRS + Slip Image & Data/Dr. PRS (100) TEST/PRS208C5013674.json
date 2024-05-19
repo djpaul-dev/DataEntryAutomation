@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Abdul Halim Sarder",
+    "medication": [
+        {
+            "name": "Napa",
+            "quantity": "10"
+        },
+        {
+            "name": "Rupen",
+            "quantity": "10"
+        },
+        {
+            "name": "Rupen D",
+            "quantity": "10"
+        },
+        {
+            "name": "Fluconazole",
+            "quantity": "10"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Md. Hasanuzzaman",
+    "medication": [
+        {
+            "name": "Sompraz 40",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Sizodon 0.5",
+            "quantity": "0-0-1"
+        },
+        {
+            "name": "Tryptomer 10",
+            "quantity": "0-0-1"
+        }
+    ]
+}

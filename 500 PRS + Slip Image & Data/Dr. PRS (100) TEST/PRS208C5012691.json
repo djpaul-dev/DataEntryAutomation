@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Kripadar Narayan Roy",
+    "medication": [
+        {
+            "name": "Tab. Amlipin",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Cap. Neugaba",
+            "quantity": "75 mg"
+        },
+        {
+            "name": "Tab. Drotin DS",
+            "quantity": "80 mg"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "doctor": "Dr. Md. Abdul Mannan",
+    "medication": [
+        {
+            "name": "Syrup Napa",
+            "quantity": "5 ml"
+        },
+        {
+            "name": "Azith",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Kofex",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Betnel",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Syr. Denadyl",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Syr. B-9 100 ml",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Amon FT",
+            "quantity": "1/2 tsf"
+        },
+        {
+            "name": "Multivitamin",
+            "quantity": "1/2 tsf"
+        }
+    ]
+}

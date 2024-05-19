@@ -1,0 +1,25 @@
+{
+    "institution": "Alhaz Abul Kashem",
+    "medication": [
+        {
+            "name": "Tab. Rezom",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Tab. Bistal",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Tab. Lepod",
+            "quantity": "25 mg"
+        },
+        {
+            "name": "Cap. Maxgalin",
+            "quantity": "75 mg"
+        },
+        {
+            "name": "Tab. Kintal",
+            "quantity": "50 mg"
+        }
+    ]
+}

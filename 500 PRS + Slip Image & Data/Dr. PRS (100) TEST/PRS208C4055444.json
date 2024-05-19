@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Md. Tazul Islam",
+    "medication": [
+        {
+            "name": "Napa 500 mg",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "3.5-3.5-3",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Ranitidine 150 mg",
+            "quantity": "1+0+1"
+        }
+    ]
+}

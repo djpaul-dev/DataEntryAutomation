@@ -1,0 +1,33 @@
+{
+    "doctor": "Dr. Md. Enamul Haque",
+    "medication": [
+        {
+            "name": "Noprosol",
+            "quantity": "1-0-1"
+        },
+        {
+            "name": "Pritor",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Mimpara",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Doxiva",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Ecosprin",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "Folvite",
+            "quantity": "1-0-0"
+        },
+        {
+            "name": "S. Votrient",
+            "quantity": "0.77 ml"
+        }
+    ]
+}

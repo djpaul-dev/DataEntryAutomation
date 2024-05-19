@@ -1,0 +1,25 @@
+{
+    "doctor": "Dr. Uzzwal Das",
+    "medication": [
+        {
+            "name": "Syp. Ace / Renova",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "Tab. Seclo",
+            "quantity": "1/2 tab"
+        },
+        {
+            "name": "Syp. Expector",
+            "quantity": "1 tsp"
+        },
+        {
+            "name": "Tab. Stafen",
+            "quantity": "1/2 tab"
+        },
+        {
+            "name": "Ab. Montair 4mg",
+            "quantity": "1 tab"
+        }
+    ]
+}

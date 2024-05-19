@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Habib Uddin Ahmad",
+    "medication": [
+        {
+            "name": "Tab. Pizotifen",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Tab. Flunarizine",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Syp. Minicof",
+            "quantity": "2 tsp"
+        },
+        {
+            "name": "Tab. Pizotifen",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Syp. Flunarizine",
+            "quantity": "5 mg"
+        },
+        {
+            "name": "Cap. Grilinctus",
+            "quantity": "2 tsp"
+        }
+    ]
+}

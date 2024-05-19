@@ -1,0 +1,17 @@
+{
+    "doctor": "Dr. Md. Shafiur Rahman",
+    "medication": [
+        {
+            "name": "Napa Syrup",
+            "quantity": "1"
+        },
+        {
+            "name": "Zinc Syrup",
+            "quantity": "1"
+        },
+        {
+            "name": "Emistop Syrup",
+            "quantity": "1"
+        }
+    ]
+}

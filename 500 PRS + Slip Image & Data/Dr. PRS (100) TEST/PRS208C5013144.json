@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Md. Mahmudul Huq",
+    "medication": [
+        {
+            "name": "Inj. Ceftron",
+            "quantity": "1 gm IV 12 hrly"
+        },
+        {
+            "name": "Inj. Flucloxacillin",
+            "quantity": "500 mg IV 6 hrly"
+        },
+        {
+            "name": "Salactin ointment",
+            "quantity": "Apply locally"
+        },
+        {
+            "name": "Tab. Paracetamol",
+            "quantity": "500 mg"
+        },
+        {
+            "name": "Tab. Ranitidine",
+            "quantity": "150 mg"
+        },
+        {
+            "name": "Tab. Neotack",
+            "quantity": "500 mg"
+        }
+    ]
+}

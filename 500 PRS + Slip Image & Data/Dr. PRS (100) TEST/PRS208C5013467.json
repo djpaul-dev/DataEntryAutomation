@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Md. Reaz Ahmed Howlader",
+    "medication": [
+        {
+            "name": "Tab. Rivotril 0.5",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Nopain",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Cap. Omeprazole",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Norspan",
+            "quantity": "0+0+1"
+        }
+    ]
+}

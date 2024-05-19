@@ -1,0 +1,29 @@
+{
+    "doctor": "Dr. Tawsifur Rahman",
+    "medication": [
+        {
+            "name": "Oflacin 400",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Ranitin 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Napa 500",
+            "quantity": "1+1+1"
+        },
+        {
+            "name": "Pantonix 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Angilock 20",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Napa 500",
+            "quantity": "1+1+1"
+        }
+    ]
+}

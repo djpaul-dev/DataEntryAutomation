@@ -1,0 +1,21 @@
+{
+    "institution": "Aichi Hospital Ltd",
+    "medication": [
+        {
+            "name": "Tab. Solian",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Tab. Cardocal-D",
+            "quantity": "1+0+0"
+        },
+        {
+            "name": "Tab. Gabastar",
+            "quantity": "0+0+1"
+        },
+        {
+            "name": "Tab. Rivotril",
+            "quantity": "0+0+1"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "institution": "Dhaka Islamiya General Hospital",
+    "medication": [
+        {
+            "name": "Esoral Mups 20",
+            "quantity": "1 + 0 + 1"
+        },
+        {
+            "name": "Unasyn",
+            "quantity": "1 + 0 + 1"
+        },
+        {
+            "name": "Telmivas Amlo",
+            "quantity": "1 + 0 + 0"
+        },
+        {
+            "name": "Eloxi",
+            "quantity": "1 + 0 + 1"
+        },
+        {
+            "name": "Rosu Max 10",
+            "quantity": "0 + 0 + 1"
+        },
+        {
+            "name": "Tab",
+            "quantity": "1 + 0 + 1"
+        },
+        {
+            "name": "Namet",
+            "quantity": "1 + 0 + 1"
+        }
+    ]
+}

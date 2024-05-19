@@ -1,0 +1,21 @@
+{
+    "institution": "Matador Jahanara & Emon Clinic Ltd.",
+    "medication": [
+        {
+            "name": "Omeprazole",
+            "quantity": "20 mg"
+        },
+        {
+            "name": "Paracetamol",
+            "quantity": "500 mg"
+        },
+        {
+            "name": "Cefixime",
+            "quantity": "200 mg"
+        },
+        {
+            "name": "Azithromycin",
+            "quantity": "500 mg"
+        }
+    ]
+}

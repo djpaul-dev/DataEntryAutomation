@@ -1,0 +1,21 @@
+{
+    "doctor": "Prof. Dr. Abdul Matin",
+    "medication": [
+        {
+            "name": "Menacal-D",
+            "quantity": "2"
+        },
+        {
+            "name": "Aristobet",
+            "quantity": "1"
+        },
+        {
+            "name": "Momeson Nasal Spray",
+            "quantity": "1"
+        },
+        {
+            "name": "Syrup Sponzy",
+            "quantity": "1"
+        }
+    ]
+}

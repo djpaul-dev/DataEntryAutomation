@@ -1,0 +1,29 @@
+{
+    "institution": "MAHADIR",
+    "medication": [
+        {
+            "name": "Tab Ecosprin",
+            "quantity": "75 mg"
+        },
+        {
+            "name": "Tab Ator",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Tab Rivarox",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Cap Nurotin",
+            "quantity": "100 mg"
+        },
+        {
+            "name": "Tab Rivarox",
+            "quantity": "10 mg"
+        },
+        {
+            "name": "Tab Ator",
+            "quantity": "10 mg"
+        }
+    ]
+}

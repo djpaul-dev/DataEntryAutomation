@@ -1,0 +1,21 @@
+{
+    "doctor": "Dr. Rana Kumar Biswas",
+    "medication": [
+        {
+            "name": "Emeset",
+            "quantity": "1/2+1/2+1/2"
+        },
+        {
+            "name": "Famotax",
+            "quantity": "1+0+1"
+        },
+        {
+            "name": "Mucus",
+            "quantity": "1/2+1/2+1/2"
+        },
+        {
+            "name": "Index",
+            "quantity": "1+0+1"
+        }
+    ]
+}
